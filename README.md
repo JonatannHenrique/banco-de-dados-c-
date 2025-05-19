@@ -19,7 +19,7 @@ Este é um projeto em **C# (.NET)** que se conecta a um banco de dados **MySQL**
 - ✅ C# (.NET)
 - ✅ MySQL
 - ✅ Biblioteca NuGet: `MySql.Data`
-- ✅ Visual Studio ou VS Code
+- ✅ Visual Studio 
 
 ---
 
@@ -27,8 +27,8 @@ Este é um projeto em **C# (.NET)** que se conecta a um banco de dados **MySQL**
 
 - [.NET SDK](https://dotnet.microsoft.com/en-us/download)
 - [MySQL Server](https://dev.mysql.com/downloads/mysql/)
-- Visual Studio / VS Code
-- Terminal & Console
+- Visual Studio 
+- & uso De Console
 
 ---
 Este projeto usa o pacote:
