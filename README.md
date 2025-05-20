@@ -1,6 +1,6 @@
 # 🗄️ Gerenciador de Dados com C# e MySQL
 
-Este é um projeto em **C# (.NET)** que se conecta a um banco de dados **MySQL** usando a biblioteca `MySql.Data`, permitindo operações básicas como **inserir**, **listar** e **deletar** registros.
+Este é um projeto em **C# (.NET)** que se conecta a um banco de dados **MySQL** usando a biblioteca `MySql.Data`, permitindo operações básicas como **inserir**, **listar**  registros.
 
 ---
 
